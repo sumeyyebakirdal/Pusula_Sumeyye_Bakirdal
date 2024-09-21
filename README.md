@@ -24,7 +24,21 @@ The initial analysis provides insights into the dataset, identifying key variabl
 ## Conclusion
 This project lays the groundwork for modeling the impact of various factors on the likelihood of experiencing drug side effects. Future work will include applying machine learning algorithms to predict side effects based on the processed data.
 
-## Author
-**Name:** Sümeyye Bakırdal
+## Running the Project
 
-**Email:** sumeyyebakirdal@gmail.com
+To run this project, follow these steps:
+
+1. **Clone the Repository**: First, clone the repository to your local machine using the command
+   ```bash
+   git clone https://github.com/sumeyyebakirdal/Pusula_Sumeyye_Bakirdal.git
+2. **Navigate to the Project Directory**: Change to the project directory
+   ```bash
+   cd Pusula_Sumeyye_Bakirdal
+3. **Install Required Packages**:Ensure you have the required Python packages installed. You can install them using pip
+    ```bash
+    pip install -r requirements.txt
+4. **Run the Main Script**:Finally, run the main script
+    ```bash
+    python pusula_sumeyye_bakirdal.py
+
+
