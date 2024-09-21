@@ -1,3 +1,7 @@
+## Author
+**Name:** Sümeyye Bakırdal
+
+**Email:** sumeyyebakirdal@gmail.com
 # Data
 The dataset used in this analysis is named side_effect_data 1.xlsx. It contains various features related to patients, drugs, and reported side effects.
 
